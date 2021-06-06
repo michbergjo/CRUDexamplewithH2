@@ -2,7 +2,7 @@
 This project is an example of how to build Spring CRUD fucntionality. It includes a built-in H2 database. 
 
 ## Usage
-Practice with and gain a better understanding of CRUD functionality 
+Practice with and gain a better understanding of CRUD functionality and REST APIs
 
 ## Install
 To run this project, you must have Java 8+ installed on your computer.  From the command line: 
